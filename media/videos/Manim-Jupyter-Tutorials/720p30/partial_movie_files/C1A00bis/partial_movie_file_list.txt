@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/iojea/Seafile/Nube/git/Manim-Jupyter-Tutorials/media/videos/Manim-Jupyter-Tutorials/720p30/partial_movie_files/C1A00bis/1342159004_1743025708_2615651071.mp4'
