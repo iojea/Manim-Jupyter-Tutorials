@@ -2,6 +2,6 @@
 
 Este repositorio contiene Jupyter-notebooks con las explicaciones de las clases (y esencialmente los mismos ejemplos).
 
-Clase 1: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iojea/Manim-Jupyter-Tutorials/HEAD?labpath=clase1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iojea/Manim-Jupyter-Tutorials/HEAD?labpath=clase1.ipynb) Clase 1: Lo básico. Figuras geométricas. Texto y texto matemático. 
 
-Clase 2: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iojea/Manim-Jupyter-Tutorials/HEAD?labpath=clase2.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iojea/Manim-Jupyter-Tutorials/HEAD?labpath=clase2.ipynb) Clase 2: Transformaciones de texto matemático. Ejes de coordenadas y gráficos de funciones. 
