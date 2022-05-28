@@ -1,9 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/iojea/Seafile/Nube/git/Manim-Jupyter-Tutorials/media/videos/Manim-Jupyter-Tutorials/720p30/partial_movie_files/C2A07/1342159004_1123379741_223132457.mp4'
-file 'file:/Users/iojea/Seafile/Nube/git/Manim-Jupyter-Tutorials/media/videos/Manim-Jupyter-Tutorials/720p30/partial_movie_files/C2A07/1353618911_641011677_3289484265.mp4'
-file 'file:/Users/iojea/Seafile/Nube/git/Manim-Jupyter-Tutorials/media/videos/Manim-Jupyter-Tutorials/720p30/partial_movie_files/C2A07/1353618911_2728169516_2475864144.mp4'
-file 'file:/Users/iojea/Seafile/Nube/git/Manim-Jupyter-Tutorials/media/videos/Manim-Jupyter-Tutorials/720p30/partial_movie_files/C2A07/1353618911_641011677_1361589449.mp4'
-file 'file:/Users/iojea/Seafile/Nube/git/Manim-Jupyter-Tutorials/media/videos/Manim-Jupyter-Tutorials/720p30/partial_movie_files/C2A07/1353618911_1083717595_691495973.mp4'
-file 'file:/Users/iojea/Seafile/Nube/git/Manim-Jupyter-Tutorials/media/videos/Manim-Jupyter-Tutorials/720p30/partial_movie_files/C2A07/1353618911_641011677_1925223477.mp4'
-file 'file:/Users/iojea/Seafile/Nube/git/Manim-Jupyter-Tutorials/media/videos/Manim-Jupyter-Tutorials/720p30/partial_movie_files/C2A07/1353618911_2067905009_3810835480.mp4'
-file 'file:/Users/iojea/Seafile/Nube/git/Manim-Jupyter-Tutorials/media/videos/Manim-Jupyter-Tutorials/720p30/partial_movie_files/C2A07/1353618911_641011677_410682797.mp4'
